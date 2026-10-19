@@ -1,0 +1,201 @@
+Invoice ID,Date,Product Category,Brand,Product Name,Unit Price,Quantity,Total Sales,COGS,Gross Profit,Payment Method,Store Type,City,Customer Age,Gender,Rating
+INV-10001,1/6/2025,Wearables,Apple,Apple Wearables,362.07,1,362.07,232.68,129.39,Ewallet,Flagship Store,Singapore,57,Female,10
+INV-10002,1/13/2025,Accessories,Logitech,Logitech Accessories,75.48,5,377.4,298.8,78.6,Ewallet,Mall Kiosk,Berlin,49,Female,8
+INV-10003,4/24/2025,Laptops,HP,HP Laptops,1491.92,4,5967.68,3787.71,2179.97,Cash,Online,London,29,Female,6
+INV-10004,1/19/2025,Laptops,HP,HP Laptops,1497.03,2,2994.06,1981.84,1012.22,Bank Transfer,Flagship Store,London,27,Male,6
+INV-10005,6/22/2024,Smartphones,Apple,Apple Smartphones,776.61,4,3106.44,2387.78,718.66,Bank Transfer,Mall Kiosk,Dubai,48,Male,4
+INV-10006,11/22/2024,Tablets,Samsung,Samsung Tablets,413.69,4,1654.76,1282.62,372.14,Cash,Online,New York,52,Male,4
+INV-10007,2/10/2025,Laptops,Dell,Dell Laptops,1483.48,1,1483.48,998.79,484.69,Credit card,Flagship Store,Dubai,27,Male,8
+INV-10008,12/26/2024,Wearables,Garmin,Garmin Wearables,463.02,3,1389.06,935.82,453.24,Bank Transfer,Flagship Store,London,51,Female,6
+INV-10009,1/2/2024,Wearables,Apple,Apple Wearables,394.19,4,1576.76,1071.95,504.81,Bank Transfer,Online,Singapore,42,Male,1
+INV-10010,7/28/2025,Laptops,Apple,Apple Laptops,1479.94,3,4439.82,2839.52,1600.3,Ewallet,Mall Kiosk,Singapore,33,Male,6
+INV-10011,3/25/2025,Accessories,Logitech,Logitech Accessories,55.66,1,55.66,42.98,12.68,Bank Transfer,Flagship Store,Berlin,26,Male,10
+INV-10012,6/21/2024,Smartphones,Apple,Apple Smartphones,809.1,1,809.1,580.9,228.2,Cash,Flagship Store,London,22,Male,1
+INV-10013,10/12/2024,Wearables,Garmin,Garmin Wearables,401.15,5,2005.75,1563.68,442.07,Cash,Online,Berlin,65,Male,8
+INV-10014,1/17/2025,Tablets,Samsung,Samsung Tablets,413.55,1,413.55,322.29,91.26,Bank Transfer,Online,Singapore,47,Female,9
+INV-10015,12/22/2024,Tablets,Apple,Apple Tablets,392.35,4,1569.4,1163.72,405.68,Credit card,Online,Berlin,48,Female,9
+INV-10016,7/5/2024,Smartphones,Samsung,Samsung Smartphones,792.87,5,3964.35,2515.53,1448.82,Ewallet,Mall Kiosk,Singapore,24,Male,3
+INV-10017,2/18/2024,Smartphones,Apple,Apple Smartphones,783.96,3,2351.88,1429.77,922.11,Bank Transfer,Flagship Store,Toronto,50,Female,9
+INV-10018,7/3/2024,Accessories,Logitech,Logitech Accessories,95.3,4,381.2,220.89,160.31,Credit card,Flagship Store,Berlin,58,Male,5
+INV-10019,7/9/2025,Smartphones,Samsung,Samsung Smartphones,814.41,1,814.41,599.62,214.79,Credit card,Mall Kiosk,London,28,Male,7
+INV-10020,5/3/2025,Accessories,Anker,Anker Accessories,57.97,5,289.85,209.33,80.52,Ewallet,Flagship Store,Dubai,38,Male,2
+INV-10021,7/12/2025,Laptops,HP,HP Laptops,1480.17,2,2960.34,1712.29,1248.05,Ewallet,Flagship Store,Dubai,23,Female,3
+INV-10022,7/3/2024,Laptops,Apple,Apple Laptops,1531.05,2,3062.1,1866.92,1195.18,Ewallet,Mall Kiosk,London,24,Male,8
+INV-10023,4/16/2024,Smartphones,Apple,Apple Smartphones,797.9,1,797.9,549.41,248.49,Credit card,Flagship Store,London,30,Male,8
+INV-10024,1/25/2024,Smartphones,Apple,Apple Smartphones,814.85,1,814.85,454.37,360.48,Ewallet,Online,Singapore,41,Male,3
+INV-10025,11/25/2024,Laptops,HP,HP Laptops,1515.77,3,4547.31,3565.45,981.86,Ewallet,Online,Toronto,60,Male,2
+INV-10026,6/20/2024,Smartphones,Samsung,Samsung Smartphones,826.05,5,4130.25,3013.84,1116.41,Cash,Mall Kiosk,London,66,Female,3
+INV-10027,3/4/2025,Wearables,Garmin,Garmin Wearables,422.73,3,1268.19,907.69,360.5,Credit card,Online,Dubai,26,Female,6
+INV-10028,11/30/2024,Laptops,HP,HP Laptops,1495.92,4,5983.68,4036.99,1946.69,Credit card,Mall Kiosk,Dubai,26,Female,3
+INV-10029,3/25/2025,Wearables,Apple,Apple Wearables,402.3,5,2011.5,1210.13,801.37,Bank Transfer,Mall Kiosk,New York,56,Female,8
+INV-10030,5/3/2024,Tablets,Apple,Apple Tablets,407.41,3,1222.23,940.94,281.29,Credit card,Online,Berlin,45,Male,3
+INV-10031,1/13/2024,Accessories,Logitech,Logitech Accessories,84.76,4,339.04,209.41,129.63,Credit card,Mall Kiosk,New York,47,Female,2
+INV-10032,10/12/2024,Laptops,HP,HP Laptops,1502.11,4,6008.44,4104.44,1904,Bank Transfer,Flagship Store,New York,33,Female,6
+INV-10033,11/16/2024,Laptops,Apple,Apple Laptops,1501.24,1,1501.24,831.41,669.83,Cash,Online,Singapore,61,Female,6
+INV-10034,8/1/2024,Accessories,Logitech,Logitech Accessories,67.67,3,203.01,146.11,56.9,Ewallet,Flagship Store,New York,39,Female,8
+INV-10035,7/30/2025,Laptops,Apple,Apple Laptops,1477.37,5,7386.85,4317.93,3068.92,Credit card,Online,London,42,Male,1
+INV-10036,5/16/2024,Wearables,Apple,Apple Wearables,375.66,2,751.32,443.7,307.62,Credit card,Online,London,63,Male,7
+INV-10037,7/24/2024,Wearables,Garmin,Garmin Wearables,413.06,1,413.06,327.98,85.08,Credit card,Flagship Store,London,67,Female,6
+INV-10038,3/31/2025,Smartphones,Apple,Apple Smartphones,807.2,3,2421.6,1453.28,968.32,Bank Transfer,Flagship Store,Berlin,18,Female,9
+INV-10039,1/27/2024,Laptops,HP,HP Laptops,1516.67,1,1516.67,1213.12,303.55,Bank Transfer,Mall Kiosk,London,39,Female,6
+INV-10040,3/3/2024,Laptops,Dell,Dell Laptops,1463.42,4,5853.68,3821.38,2032.3,Credit card,Mall Kiosk,Toronto,26,Male,2
+INV-10041,5/30/2025,Accessories,Anker,Anker Accessories,80.64,1,80.64,59.31,21.33,Credit card,Mall Kiosk,Berlin,44,Female,8
+INV-10042,7/23/2024,Smartphones,Apple,Apple Smartphones,795.1,3,2385.3,1568.76,816.54,Cash,Mall Kiosk,Singapore,42,Male,2
+INV-10043,10/22/2024,Smartphones,Apple,Apple Smartphones,771.76,2,1543.52,1135.45,408.07,Credit card,Flagship Store,Toronto,18,Female,6
+INV-10044,7/4/2024,Tablets,Apple,Apple Tablets,386.98,2,773.96,501.49,272.47,Bank Transfer,Flagship Store,London,20,Male,2
+INV-10045,10/23/2024,Wearables,Garmin,Garmin Wearables,405.37,5,2026.85,1549.17,477.68,Cash,Online,London,37,Female,6
+INV-10046,2/19/2024,Tablets,Apple,Apple Tablets,421.68,1,421.68,319.08,102.6,Credit card,Flagship Store,Toronto,53,Female,6
+INV-10047,7/1/2024,Laptops,Apple,Apple Laptops,1478.86,2,2957.72,2287.02,670.7,Credit card,Mall Kiosk,New York,33,Female,9
+INV-10048,1/30/2025,Smartphones,Apple,Apple Smartphones,781.81,3,2345.43,1525.52,819.91,Bank Transfer,Mall Kiosk,Toronto,41,Female,10
+INV-10049,6/6/2025,Wearables,Garmin,Garmin Wearables,389.14,2,778.28,456.66,321.62,Cash,Flagship Store,Berlin,55,Female,6
+INV-10050,4/26/2024,Accessories,Anker,Anker Accessories,69.65,3,208.95,155.83,53.12,Bank Transfer,Online,Singapore,54,Male,1
+INV-10051,1/14/2024,Accessories,Logitech,Logitech Accessories,68.54,3,205.62,128.15,77.47,Credit card,Flagship Store,New York,32,Male,6
+INV-10052,4/6/2024,Tablets,Samsung,Samsung Tablets,393.44,2,786.88,586.72,200.16,Credit card,Mall Kiosk,Dubai,37,Female,9
+INV-10053,7/30/2025,Tablets,Apple,Apple Tablets,427.51,2,855.02,550.17,304.85,Credit card,Online,Toronto,59,Male,5
+INV-10054,3/24/2024,Smartphones,Samsung,Samsung Smartphones,804.78,5,4023.9,2574.84,1449.06,Bank Transfer,Online,Toronto,50,Male,1
+INV-10055,10/1/2024,Laptops,HP,HP Laptops,1487.98,5,7439.9,4899.51,2540.39,Credit card,Online,Dubai,30,Male,10
+INV-10056,3/30/2024,Tablets,Samsung,Samsung Tablets,397.15,3,1191.45,765.38,426.07,Credit card,Flagship Store,Toronto,36,Male,7
+INV-10057,6/13/2024,Smartphones,Samsung,Samsung Smartphones,817.82,1,817.82,576.18,241.64,Ewallet,Flagship Store,Toronto,28,Female,3
+INV-10058,1/20/2024,Tablets,Apple,Apple Tablets,388.02,5,1940.1,1388.47,551.63,Cash,Online,Singapore,54,Female,1
+INV-10059,5/4/2024,Smartphones,Samsung,Samsung Smartphones,829.24,5,4146.2,3220.08,926.12,Credit card,Mall Kiosk,New York,37,Male,1
+INV-10060,11/22/2024,Wearables,Garmin,Garmin Wearables,369.4,5,1847,1279.39,567.61,Credit card,Online,London,40,Female,7
+INV-10061,6/17/2024,Smartphones,Samsung,Samsung Smartphones,833.76,5,4168.8,2637.91,1530.89,Ewallet,Online,London,64,Male,9
+INV-10062,2/13/2024,Accessories,Anker,Anker Accessories,106.14,4,424.56,332.44,92.12,Credit card,Online,Berlin,25,Female,8
+INV-10063,8/26/2024,Laptops,Dell,Dell Laptops,1515.02,4,6060.08,4393.66,1666.42,Ewallet,Flagship Store,Dubai,58,Male,5
+INV-10064,4/22/2024,Accessories,Logitech,Logitech Accessories,81.9,5,409.5,247.7,161.8,Bank Transfer,Flagship Store,London,48,Male,10
+INV-10065,4/30/2024,Smartphones,Apple,Apple Smartphones,807.61,5,4038.05,2554.97,1483.08,Credit card,Online,Dubai,62,Female,8
+INV-10066,2/25/2024,Tablets,Apple,Apple Tablets,438.29,5,2191.45,1517.56,673.89,Bank Transfer,Mall Kiosk,London,43,Male,3
+INV-10067,8/30/2024,Wearables,Apple,Apple Wearables,380.6,2,761.2,419.48,341.72,Cash,Flagship Store,Toronto,38,Male,7
+INV-10068,5/23/2025,Accessories,Logitech,Logitech Accessories,104.45,4,417.8,316.15,101.65,Cash,Mall Kiosk,Toronto,62,Female,3
+INV-10069,5/13/2024,Tablets,Samsung,Samsung Tablets,408,1,408,242.52,165.48,Bank Transfer,Flagship Store,Singapore,21,Male,10
+INV-10070,10/15/2024,Wearables,Apple,Apple Wearables,372.46,2,744.92,434.38,310.54,Cash,Flagship Store,Dubai,44,Male,8
+INV-10071,4/23/2025,Wearables,Garmin,Garmin Wearables,386.47,5,1932.35,1344.36,587.99,Cash,Flagship Store,New York,23,Male,2
+INV-10072,6/3/2024,Tablets,Samsung,Samsung Tablets,406.28,4,1625.12,1018.17,606.95,Credit card,Online,Singapore,32,Male,4
+INV-10073,9/6/2024,Laptops,Dell,Dell Laptops,1477.8,3,4433.4,2897.03,1536.37,Credit card,Flagship Store,London,67,Male,3
+INV-10074,7/26/2025,Accessories,Anker,Anker Accessories,61.58,4,246.32,171.9,74.42,Bank Transfer,Flagship Store,Dubai,23,Male,8
+INV-10075,6/21/2025,Wearables,Garmin,Garmin Wearables,377.37,4,1509.48,963.24,546.24,Bank Transfer,Mall Kiosk,New York,65,Male,10
+INV-10076,6/26/2025,Smartphones,Apple,Apple Smartphones,806.32,4,3225.28,2476.88,748.4,Bank Transfer,Online,Singapore,66,Male,8
+INV-10077,11/9/2024,Laptops,Dell,Dell Laptops,1478.01,2,2956.02,2161.29,794.73,Credit card,Flagship Store,New York,46,Male,9
+INV-10078,2/23/2024,Laptops,Apple,Apple Laptops,1504.3,3,4512.9,3092.99,1419.91,Cash,Online,Berlin,35,Female,6
+INV-10079,5/26/2025,Tablets,Samsung,Samsung Tablets,428.05,1,428.05,282.74,145.31,Bank Transfer,Mall Kiosk,London,48,Female,9
+INV-10080,5/9/2024,Smartphones,Samsung,Samsung Smartphones,800.44,2,1600.88,1086.66,514.22,Cash,Mall Kiosk,Dubai,35,Female,3
+INV-10081,8/31/2024,Tablets,Samsung,Samsung Tablets,434.49,5,2172.45,1725.24,447.21,Bank Transfer,Mall Kiosk,London,51,Male,10
+INV-10082,7/7/2025,Laptops,Apple,Apple Laptops,1498.97,2,2997.94,2089.13,908.81,Ewallet,Online,Dubai,29,Male,6
+INV-10083,4/7/2024,Accessories,Logitech,Logitech Accessories,67.06,5,335.3,241.33,93.97,Ewallet,Online,Toronto,26,Male,7
+INV-10084,12/7/2024,Laptops,HP,HP Laptops,1501.83,1,1501.83,1149.83,352,Cash,Online,New York,36,Male,5
+INV-10085,7/22/2025,Wearables,Garmin,Garmin Wearables,421.02,2,842.04,497.31,344.73,Bank Transfer,Online,Berlin,56,Female,4
+INV-10086,2/8/2024,Smartphones,Samsung,Samsung Smartphones,794.39,3,2383.17,1761.9,621.27,Ewallet,Flagship Store,Toronto,38,Male,9
+INV-10087,6/9/2025,Smartphones,Samsung,Samsung Smartphones,775.26,3,2325.78,1627.15,698.63,Cash,Flagship Store,Berlin,63,Female,1
+INV-10088,1/31/2025,Accessories,Anker,Anker Accessories,61.96,2,123.92,87.02,36.9,Cash,Flagship Store,Singapore,57,Male,3
+INV-10089,3/10/2025,Accessories,Logitech,Logitech Accessories,100.69,2,201.38,152.48,48.9,Credit card,Flagship Store,Dubai,54,Male,8
+INV-10090,3/20/2025,Laptops,Dell,Dell Laptops,1514.43,4,6057.72,3864.98,2192.74,Ewallet,Online,London,47,Female,9
+INV-10091,7/16/2025,Laptops,HP,HP Laptops,1507.33,1,1507.33,1096.85,410.48,Cash,Mall Kiosk,Dubai,26,Male,4
+INV-10092,8/20/2024,Laptops,Apple,Apple Laptops,1524.32,4,6097.28,3449.72,2647.56,Ewallet,Online,London,46,Male,10
+INV-10093,4/2/2025,Accessories,Logitech,Logitech Accessories,82.09,5,410.45,310.17,100.28,Credit card,Mall Kiosk,New York,43,Female,5
+INV-10094,5/12/2024,Tablets,Samsung,Samsung Tablets,405.47,2,810.94,632.03,178.91,Cash,Mall Kiosk,London,62,Female,6
+INV-10095,11/5/2024,Tablets,Samsung,Samsung Tablets,419.96,4,1679.84,1339.94,339.9,Bank Transfer,Online,Dubai,30,Female,10
+INV-10096,6/10/2024,Tablets,Samsung,Samsung Tablets,389.77,2,779.54,540.19,239.35,Ewallet,Flagship Store,Berlin,18,Male,4
+INV-10097,2/17/2024,Accessories,Logitech,Logitech Accessories,64.1,4,256.4,157.9,98.5,Bank Transfer,Flagship Store,Singapore,56,Female,6
+INV-10098,4/7/2025,Tablets,Samsung,Samsung Tablets,371.55,4,1486.2,980.83,505.37,Ewallet,Flagship Store,New York,64,Male,1
+INV-10099,3/26/2025,Tablets,Samsung,Samsung Tablets,422.44,3,1267.32,934.63,332.69,Credit card,Mall Kiosk,Berlin,56,Female,6
+INV-10100,2/15/2025,Wearables,Garmin,Garmin Wearables,401.46,5,2007.3,1114.69,892.61,Bank Transfer,Mall Kiosk,Toronto,41,Female,3
+INV-10101,8/19/2024,Laptops,Dell,Dell Laptops,1451.27,5,7256.35,4930.25,2326.1,Credit card,Flagship Store,Singapore,21,Female,10
+INV-10102,6/17/2025,Laptops,Dell,Dell Laptops,1505.06,5,7525.3,5089.79,2435.51,Bank Transfer,Mall Kiosk,London,51,Female,8
+INV-10103,5/16/2025,Tablets,Apple,Apple Tablets,410.13,4,1640.52,1288.53,351.99,Credit card,Mall Kiosk,London,55,Female,9
+INV-10104,2/21/2025,Smartphones,Samsung,Samsung Smartphones,823,3,2469,1683.21,785.79,Ewallet,Flagship Store,London,49,Male,7
+INV-10105,3/27/2024,Accessories,Logitech,Logitech Accessories,69.14,2,138.28,86,52.28,Bank Transfer,Mall Kiosk,New York,67,Female,3
+INV-10106,8/3/2024,Laptops,Apple,Apple Laptops,1531.16,2,3062.32,1752.21,1310.11,Ewallet,Flagship Store,Dubai,44,Male,9
+INV-10107,10/29/2024,Wearables,Apple,Apple Wearables,429.47,2,858.94,621.6,237.34,Credit card,Online,Singapore,60,Female,3
+INV-10108,2/19/2024,Accessories,Logitech,Logitech Accessories,65.69,5,328.45,249.65,78.8,Cash,Mall Kiosk,New York,55,Male,9
+INV-10109,11/7/2024,Laptops,Apple,Apple Laptops,1501.15,2,3002.3,2366.89,635.41,Ewallet,Flagship Store,London,30,Male,10
+INV-10110,12/4/2024,Tablets,Apple,Apple Tablets,407.27,2,814.54,599.58,214.96,Bank Transfer,Flagship Store,Dubai,42,Male,3
+INV-10111,3/4/2025,Tablets,Samsung,Samsung Tablets,417.85,5,2089.25,1549.38,539.87,Credit card,Mall Kiosk,Dubai,49,Female,8
+INV-10112,11/16/2024,Smartphones,Samsung,Samsung Smartphones,806.16,5,4030.8,3016.54,1014.26,Cash,Mall Kiosk,Toronto,66,Male,1
+INV-10113,2/5/2024,Smartphones,Samsung,Samsung Smartphones,827.97,3,2483.91,1662.64,821.27,Ewallet,Online,Singapore,67,Male,8
+INV-10114,4/6/2025,Laptops,HP,HP Laptops,1537.09,3,4611.27,2864.23,1747.04,Cash,Mall Kiosk,London,52,Male,8
+INV-10115,4/17/2024,Wearables,Apple,Apple Wearables,381.48,2,762.96,560.91,202.05,Bank Transfer,Mall Kiosk,Toronto,63,Female,10
+INV-10116,5/1/2025,Smartphones,Apple,Apple Smartphones,787.81,3,2363.43,1302.88,1060.55,Credit card,Online,Singapore,56,Female,9
+INV-10117,6/29/2025,Laptops,Dell,Dell Laptops,1526.66,5,7633.3,5588.65,2044.65,Ewallet,Online,Dubai,55,Male,1
+INV-10118,7/21/2024,Smartphones,Samsung,Samsung Smartphones,810.43,3,2431.29,1876.22,555.07,Ewallet,Online,New York,65,Male,5
+INV-10119,4/28/2024,Wearables,Apple,Apple Wearables,392.22,4,1568.88,886.84,682.04,Bank Transfer,Mall Kiosk,London,18,Female,7
+INV-10120,12/6/2024,Tablets,Samsung,Samsung Tablets,384.91,4,1539.64,871.41,668.23,Bank Transfer,Online,London,52,Male,9
+INV-10121,8/14/2024,Smartphones,Apple,Apple Smartphones,761.37,3,2284.11,1279.2,1004.91,Ewallet,Flagship Store,New York,66,Male,5
+INV-10122,8/4/2024,Wearables,Apple,Apple Wearables,370.46,5,1852.3,1427.08,425.22,Cash,Mall Kiosk,New York,35,Female,4
+INV-10123,12/30/2024,Laptops,HP,HP Laptops,1481,5,7405,5140.75,2264.25,Credit card,Mall Kiosk,New York,24,Female,8
+INV-10124,2/20/2024,Wearables,Apple,Apple Wearables,381.2,5,1906,1420.44,485.56,Bank Transfer,Flagship Store,New York,48,Female,1
+INV-10125,10/25/2024,Laptops,HP,HP Laptops,1496.15,5,7480.75,5546.89,1933.86,Ewallet,Online,Berlin,41,Male,5
+INV-10126,5/15/2025,Laptops,Apple,Apple Laptops,1507.41,4,6029.64,3635.99,2393.65,Bank Transfer,Online,Berlin,39,Female,4
+INV-10127,11/13/2024,Wearables,Garmin,Garmin Wearables,378,3,1134,795.05,338.95,Cash,Flagship Store,New York,60,Female,8
+INV-10128,7/28/2025,Laptops,Apple,Apple Laptops,1524.27,4,6097.08,4347.32,1749.76,Ewallet,Mall Kiosk,London,49,Female,10
+INV-10129,8/2/2024,Wearables,Apple,Apple Wearables,364.47,3,1093.41,859.11,234.3,Credit card,Online,Berlin,63,Female,4
+INV-10130,3/17/2024,Smartphones,Samsung,Samsung Smartphones,824.44,3,2473.32,1849.15,624.17,Ewallet,Flagship Store,Dubai,40,Female,3
+INV-10131,5/13/2025,Accessories,Logitech,Logitech Accessories,105.33,2,210.66,157.27,53.39,Cash,Flagship Store,Singapore,42,Male,10
+INV-10132,12/11/2024,Wearables,Garmin,Garmin Wearables,422.2,1,422.2,240.11,182.09,Ewallet,Flagship Store,Toronto,46,Male,5
+INV-10133,2/11/2025,Wearables,Apple,Apple Wearables,386.34,4,1545.36,1201.56,343.8,Credit card,Online,Dubai,53,Female,5
+INV-10134,8/23/2024,Laptops,Apple,Apple Laptops,1509.98,3,4529.94,3221.21,1308.73,Credit card,Mall Kiosk,Berlin,52,Male,1
+INV-10135,5/3/2024,Wearables,Apple,Apple Wearables,365.41,1,365.41,215.54,149.87,Bank Transfer,Mall Kiosk,New York,31,Male,5
+INV-10136,6/25/2024,Tablets,Apple,Apple Tablets,417.34,5,2086.7,1366.04,720.66,Bank Transfer,Online,Dubai,55,Female,10
+INV-10137,5/8/2024,Wearables,Apple,Apple Wearables,398.27,2,796.54,528.55,267.99,Bank Transfer,Online,Singapore,20,Female,10
+INV-10138,10/25/2024,Smartphones,Samsung,Samsung Smartphones,794.18,4,3176.72,2470.17,706.55,Credit card,Flagship Store,Berlin,34,Female,8
+INV-10139,1/12/2024,Wearables,Garmin,Garmin Wearables,394.37,3,1183.11,754.54,428.57,Ewallet,Mall Kiosk,Singapore,33,Female,4
+INV-10140,6/8/2025,Laptops,HP,HP Laptops,1498.98,4,5995.92,4136.92,1859,Bank Transfer,Online,London,30,Female,8
+INV-10141,6/29/2025,Accessories,Logitech,Logitech Accessories,93.11,5,465.55,330.43,135.12,Ewallet,Online,Berlin,64,Female,8
+INV-10142,3/23/2024,Smartphones,Samsung,Samsung Smartphones,778.84,5,3894.2,2937.54,956.66,Ewallet,Online,Singapore,30,Male,5
+INV-10143,2/25/2024,Tablets,Samsung,Samsung Tablets,415.4,2,830.8,576.7,254.1,Credit card,Mall Kiosk,London,25,Male,10
+INV-10144,4/23/2025,Accessories,Logitech,Logitech Accessories,74.64,1,74.64,54.48,20.16,Credit card,Online,London,36,Female,9
+INV-10145,11/5/2024,Smartphones,Apple,Apple Smartphones,768.85,3,2306.55,1275.29,1031.26,Cash,Mall Kiosk,Singapore,65,Female,5
+INV-10146,5/12/2024,Laptops,Apple,Apple Laptops,1492.04,1,1492.04,912.07,579.97,Cash,Online,Berlin,49,Male,1
+INV-10147,2/10/2025,Accessories,Anker,Anker Accessories,86.21,4,344.84,241.77,103.07,Bank Transfer,Online,Berlin,51,Female,9
+INV-10148,3/15/2024,Accessories,Anker,Anker Accessories,87.95,5,439.75,314.22,125.53,Credit card,Online,Berlin,64,Male,6
+INV-10149,3/16/2025,Laptops,HP,HP Laptops,1498.27,4,5993.08,3988.25,2004.83,Bank Transfer,Flagship Store,Toronto,21,Female,10
+INV-10150,2/1/2024,Laptops,Apple,Apple Laptops,1466.64,3,4399.92,3402.13,997.79,Credit card,Flagship Store,Berlin,33,Female,4
+INV-10151,2/3/2025,Tablets,Samsung,Samsung Tablets,392.64,3,1177.92,779.49,398.43,Ewallet,Mall Kiosk,New York,59,Male,7
+INV-10152,2/2/2025,Accessories,Anker,Anker Accessories,56.87,1,56.87,36.33,20.54,Ewallet,Online,London,22,Female,6
+INV-10153,5/2/2025,Wearables,Apple,Apple Wearables,378.4,5,1892,1426.97,465.03,Bank Transfer,Flagship Store,Singapore,23,Female,4
+INV-10154,4/26/2024,Laptops,Dell,Dell Laptops,1493.19,4,5972.76,4741.86,1230.9,Ewallet,Flagship Store,Dubai,45,Male,1
+INV-10155,12/14/2024,Laptops,Dell,Dell Laptops,1474.38,4,5897.52,3681.2,2216.32,Ewallet,Online,London,55,Male,10
+INV-10156,8/6/2024,Smartphones,Apple,Apple Smartphones,806.02,4,3224.08,1914.27,1309.81,Credit card,Online,New York,59,Female,1
+INV-10157,2/1/2024,Accessories,Anker,Anker Accessories,68.46,4,273.84,203.09,70.75,Cash,Flagship Store,Berlin,61,Female,8
+INV-10158,7/27/2024,Smartphones,Samsung,Samsung Smartphones,796.55,4,3186.2,2226.51,959.69,Ewallet,Online,Dubai,61,Female,9
+INV-10159,2/4/2025,Accessories,Logitech,Logitech Accessories,52.92,5,264.6,168.23,96.37,Cash,Online,Singapore,39,Male,6
+INV-10160,1/31/2025,Wearables,Garmin,Garmin Wearables,391.39,5,1956.95,1527.39,429.56,Ewallet,Online,Toronto,29,Female,1
+INV-10161,6/20/2025,Tablets,Apple,Apple Tablets,407.59,3,1222.77,822.73,400.04,Ewallet,Mall Kiosk,London,65,Female,6
+INV-10162,7/24/2025,Accessories,Anker,Anker Accessories,84.72,4,338.88,235.95,102.93,Ewallet,Mall Kiosk,Singapore,45,Male,4
+INV-10163,5/28/2025,Tablets,Apple,Apple Tablets,398.48,3,1195.44,698.63,496.81,Bank Transfer,Mall Kiosk,New York,52,Male,5
+INV-10164,7/6/2024,Smartphones,Apple,Apple Smartphones,784.24,5,3921.2,2600.22,1320.98,Bank Transfer,Mall Kiosk,Berlin,52,Male,10
+INV-10165,2/15/2024,Wearables,Garmin,Garmin Wearables,385.12,4,1540.48,1073.99,466.49,Bank Transfer,Online,Dubai,40,Female,4
+INV-10166,1/27/2024,Accessories,Logitech,Logitech Accessories,77.07,1,77.07,45.66,31.41,Ewallet,Mall Kiosk,Toronto,34,Female,10
+INV-10167,12/16/2024,Tablets,Apple,Apple Tablets,389.28,1,389.28,275.88,113.4,Credit card,Mall Kiosk,Singapore,37,Female,7
+INV-10168,3/31/2025,Smartphones,Apple,Apple Smartphones,810.09,2,1620.18,923.65,696.53,Ewallet,Online,Toronto,24,Female,8
+INV-10169,10/30/2024,Laptops,HP,HP Laptops,1478.9,1,1478.9,951.22,527.68,Bank Transfer,Mall Kiosk,New York,55,Male,7
+INV-10170,8/3/2024,Smartphones,Apple,Apple Smartphones,801.37,5,4006.85,2908.72,1098.13,Cash,Online,Dubai,24,Male,8
+INV-10171,6/22/2024,Accessories,Logitech,Logitech Accessories,28.17,4,112.68,64.36,48.32,Bank Transfer,Flagship Store,Berlin,40,Female,10
+INV-10172,5/8/2024,Wearables,Garmin,Garmin Wearables,375.87,5,1879.35,1039.65,839.7,Bank Transfer,Mall Kiosk,Singapore,33,Female,7
+INV-10173,7/27/2025,Wearables,Garmin,Garmin Wearables,407.93,3,1223.79,694.45,529.34,Credit card,Online,Singapore,31,Male,1
+INV-10174,5/28/2025,Accessories,Logitech,Logitech Accessories,65.83,5,329.15,208.14,121.01,Ewallet,Mall Kiosk,Toronto,56,Female,4
+INV-10175,11/20/2024,Smartphones,Samsung,Samsung Smartphones,792.37,5,3961.85,2311.69,1650.16,Credit card,Mall Kiosk,Toronto,22,Male,6
+INV-10176,4/9/2024,Accessories,Anker,Anker Accessories,71.89,3,215.67,139.72,75.95,Ewallet,Online,Dubai,43,Male,2
+INV-10177,12/5/2024,Wearables,Apple,Apple Wearables,406.77,1,406.77,306.5,100.27,Bank Transfer,Mall Kiosk,London,42,Male,10
+INV-10178,10/10/2024,Wearables,Garmin,Garmin Wearables,345.96,5,1729.8,1109.09,620.71,Ewallet,Mall Kiosk,Berlin,46,Male,2
+INV-10179,1/9/2025,Smartphones,Samsung,Samsung Smartphones,801.07,3,2403.21,1814.49,588.72,Bank Transfer,Flagship Store,Dubai,35,Female,6
+INV-10180,7/21/2025,Accessories,Anker,Anker Accessories,65.56,3,196.68,121.63,75.05,Cash,Flagship Store,Dubai,23,Female,4
+INV-10181,8/22/2024,Wearables,Garmin,Garmin Wearables,424.7,1,424.7,267.02,157.68,Bank Transfer,Flagship Store,London,21,Male,2
+INV-10182,6/15/2025,Tablets,Apple,Apple Tablets,385.59,2,771.18,466.63,304.55,Credit card,Online,Singapore,20,Male,7
+INV-10183,1/7/2025,Laptops,Apple,Apple Laptops,1499.4,1,1499.4,967.03,532.37,Ewallet,Mall Kiosk,New York,42,Male,8
+INV-10184,2/12/2025,Wearables,Apple,Apple Wearables,427.54,2,855.08,542.08,313,Ewallet,Online,Singapore,39,Male,3
+INV-10185,1/9/2025,Tablets,Samsung,Samsung Tablets,380.09,3,1140.27,847.14,293.13,Bank Transfer,Flagship Store,Singapore,65,Male,9
+INV-10186,6/18/2025,Tablets,Samsung,Samsung Tablets,409.11,5,2045.55,1628.12,417.43,Bank Transfer,Mall Kiosk,Dubai,35,Male,2
+INV-10187,6/30/2024,Accessories,Anker,Anker Accessories,62.86,4,251.44,200.87,50.57,Cash,Flagship Store,Toronto,32,Male,7
+INV-10188,4/8/2024,Wearables,Garmin,Garmin Wearables,399.65,3,1198.95,874.86,324.09,Bank Transfer,Mall Kiosk,Berlin,35,Female,10
+INV-10189,2/25/2025,Wearables,Apple,Apple Wearables,419.59,5,2097.95,1443.52,654.43,Cash,Online,Berlin,66,Female,6
+INV-10190,6/17/2025,Laptops,Dell,Dell Laptops,1479.51,1,1479.51,1160.81,318.7,Ewallet,Flagship Store,Singapore,28,Male,6
+INV-10191,10/21/2024,Accessories,Anker,Anker Accessories,75.89,3,227.67,139.86,87.81,Credit card,Online,Singapore,22,Male,4
+INV-10192,2/1/2025,Accessories,Logitech,Logitech Accessories,84.91,2,169.82,112.67,57.15,Ewallet,Online,Dubai,29,Female,4
+INV-10193,5/29/2024,Laptops,Dell,Dell Laptops,1493.67,1,1493.67,907.64,586.03,Bank Transfer,Online,Toronto,57,Male,4
+INV-10194,3/29/2025,Laptops,HP,HP Laptops,1504.23,3,4512.69,3290.19,1222.5,Credit card,Flagship Store,London,21,Female,9
+INV-10195,6/29/2025,Laptops,HP,HP Laptops,1479.83,1,1479.83,857.18,622.65,Cash,Mall Kiosk,London,33,Female,10
+INV-10196,5/10/2024,Laptops,Apple,Apple Laptops,1500.45,5,7502.25,4766.45,2735.8,Credit card,Mall Kiosk,London,50,Female,8
+INV-10197,1/13/2024,Accessories,Logitech,Logitech Accessories,96.21,3,288.63,210.48,78.15,Credit card,Mall Kiosk,Dubai,33,Female,5
+INV-10198,5/25/2024,Wearables,Garmin,Garmin Wearables,399.38,1,399.38,231.21,168.17,Ewallet,Flagship Store,London,20,Male,3
+INV-10199,2/18/2025,Accessories,Anker,Anker Accessories,45.01,4,180.04,130.15,49.89,Bank Transfer,Flagship Store,Toronto,58,Female,7
+INV-10200,2/27/2025,Smartphones,Samsung,Samsung Smartphones,773.45,4,3093.8,2068.15,1025.65,Ewallet,Online,Toronto,32,Male,3
