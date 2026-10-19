@@ -3,7 +3,7 @@
 ![TechMart Dashboard](TechMart_Dashboard.png)
 
 ## Overview
-Analyzed 200 sales transactions for TechMart electronics retailer to track revenue performance and profitability.
+Analyzed 200 sales transactions for TechMart electronics retailer to track revenue performance and profitability across cities, products, and sales channels.
 
 ## Key KPIs
 - **Total Orders:** 200
@@ -14,29 +14,33 @@ Analyzed 200 sales transactions for TechMart electronics retailer to track reven
 - **Profit Margin:** 31.9%
 
 ## Business Insights
-- **Profitability:** Business operates at 31.9% gross margin, meaning $0.32 profit per $1 sale.
-- **Top Category:** Smartphones generated highest revenue ($205,546).
-- **Top Brand:** Brand 123 leads revenue by brand.
-- **Seasonality:** July is peak revenue month ($66,303), September is lowest.
-- **Sales Channel:** Online store dominates revenue share.
+- **Profitability:** 31.9% gross margin means $0.32 profit per $1 sale. Healthy margin.
+- **Top Category:** Laptops generated highest revenue ($214,058) — 50% of total revenue.
+- **Top Brand:** Apple leads by brand ($153,440), followed by Samsung ($85,507).
+- **Top City:** London leads revenue by city ($114,708).
+- **Seasonality:** Peak revenue in June ($63,389), lowest in September ($4,433).
+- **Sales Channel:** Online Store dominates ($242,014) vs Mall Kiosk ($112,005) and Flagship Store ($67,480).
+- **Payment Method:** Ewallet is most used ($128,866) followed by Credit Card ($124,902).
 
 ## Formula Used (Attention to Detail)
-Profit Margin was not hard-coded. It is dynamically linked:
-`KPI!H27 = G27/D27` = Gross Profit / Total Revenue
-Dashboard shape = `=KPI!H27` (linked for auto-update)
+Profit Margin was NOT hard-coded. It is dynamically linked to prove calculation:
 
-This replaces meaningless `Sum of Unit Price` with real business metric.
+`KPI!H27 = G27/D27` = Total Gross Profit / Total Revenue
+`Dashboard Shape = =KPI!H27` (auto-updates when data changes)
+
+This replaces meaningless `Sum of Unit Price` with a real business metric that hiring managers look for.
 
 ## Tools Used
-- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Shape Linking)
-- Data Cleaning, KPI Cards, Interactive Dashboard
+- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Timeline)
+- Data Cleaning, KPI Cards, Shape Linking, Percentage Formatting
 
 ## Files
-- `TechMart.csv` - Raw raw data
-- `TechMart.xlsx` - Cleaned data + Pivot + Dashboard
-- `TechMart_Dashboard.png` - Final dashboard image
+- `TechMart.csv` - Raw sales data (200 rows)
+- `TechMart.xlsx` - Cleaned data + KPI sheet + Dashboard
+- `TechMart_Dashboard.png` - Final dashboard screenshot
 
 ## Author
 **Ayodeji Orikogbo** | Aspiring Data Analyst | Excel
 Building portfolio for entry-level data analyst roles.
 GitHub: Orikogbo3
+LinkedIn: www.linkedin.com/in/ayodejiorikogbo
