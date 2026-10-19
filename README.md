@@ -37,4 +37,6 @@ This replaces meaningless `Sum of Unit Price` with real business metric.
 - `TechMart_Dashboard.png` - Final dashboard image
 
 ## Author
-Aspiring Data Analyst | Excel | Building portfolio for entry-level roles.
+**Ayodeji Orikogbo** | Aspiring Data Analyst | Excel
+Building portfolio for entry-level data analyst roles.
+GitHub: Orikogbo3
